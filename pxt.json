@@ -1,0 +1,27 @@
+{
+    "name": "simple night light",
+    "description": "",
+    "dependencies": {
+        "adafruit-trinket-m0": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.15.54",
+        "tag": "v0.15.54",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/e260057b6f5798fcbbcf451bb8e8c069a23354ad",
+        "target": "0.15.58",
+        "pxt": "7.3.9",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
